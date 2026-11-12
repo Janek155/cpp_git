@@ -5,5 +5,5 @@ int Policz(int a, int b) {
 }
 int main() {
     std::cout << "Hellow Word!" << std::endl;
-    std::cout << "W pierwszym branchu: 2+3= " << Policz(3, 4) << std::endl;
+    std::cout << "W pierwszym branchu: 2+3= " << Policz(2, 3) << std::endl;
 }
